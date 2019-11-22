@@ -1,7 +1,7 @@
 var imagenes  = [];
-imagenes["Cauchin"] = "vaca.png";
-imagenes["Pokacho"] = "pollo.png";
-imagenes["Tocinauro"] = "cerdo.png";
+imagenes["Cauchin"] = "../img/vaca.png";
+imagenes["Pokacho"] = "../img/pollo.png";
+imagenes["Tocinauro"] = "../img/cerdo.png";
 
 
 var coleccion = [];
