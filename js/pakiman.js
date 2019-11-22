@@ -1,5 +1,5 @@
 var imagenes  = [];
-imagenes["Cauchin"] = "img/vaca.png";
+imagenes["Cauchin"] = "../img/vaca.png";
 imagenes["Pokacho"] = "img/pollo.png";
 imagenes["Tocinauro"] = "img/cerdo.png";
 
